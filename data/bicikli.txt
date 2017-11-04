@@ -1,0 +1,6 @@
+bck006|KTM 7005|320.0|kat006|sportski bicikl|true|false|13
+bck005|BMX nov|150.0|kat001|sivi metalic|true|false|7
+bck003|Capriolo Adrenalin X3|160.0|kat004|MTB|false|false|6
+bck002|Merida mdi|55.0|kat007|zuti bicikl |false|false|2
+bck004|Delta 12 deciji bicikl|50.0|kat003|silver metalic nov|false|false|5
+bck001|BMX povoljno|45.0|kat001|novi bicikl marke BMX|true|false|4

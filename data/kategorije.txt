@@ -1,0 +1,16 @@
+kat001|BMX|bicikl tipa BMX|null|false
+kat002|Cruiser|bicikl tipa Cruiser|null|false
+kat003|Kids|deciji bicikl|null|false
+kat004|MTB|mountain bike|null|false
+kat005|Road|bicikl tipa Road|null|true
+kat006|Racing|sportki bicikl|null|false
+kat007|Classic|City bike|null|false
+kat008|Scooter|skuteri|null|false
+kat009|OldTimer|motocikli tipa OldTimer|null|false
+kat010|Moped|mopedi|null|false
+kat011|Sport|sportski motori|null|false
+kat012|Limuzina|putnicka vozila tipa limuzina|null|false
+kat013|Kupe|vozila tipa kupe|null|false
+kat014|Kabriolet|kabriolet|null|false
+kat015|Dzip|dzipovi|null|false
+kat016|Karavan|vozila tipa karavan|null|false

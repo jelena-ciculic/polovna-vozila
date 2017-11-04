@@ -1,0 +1,5 @@
+moto004|BMW R45|5000.0|kat009|godiste 1979|true|false|470|26/35|evro dizel
+moto005|Honda CB 400|4500.0|kat009|1975 godiste domace tablice|false|true|408|27/37|benzin
+moto002|Vespa Sprint|3900.0|kat010|neostecena|false|false|50|3/4|dizel
+moto001|Paggio Scooter 150|3500.0|kat008|novi neregistrovan|false|false|150|11/15|benzin
+moto003|Peugeot Tweet 2017|1900.0|kat010|neregistrovan|false|false|49|2/3|dizel

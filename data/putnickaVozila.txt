@@ -1,0 +1,6 @@
+pv002|BMW X6 2009|35200.0|kat012|opis|true|false|2900|210/286|dizel|BMW|X6|4|klima;maglenke;radio;ABS;
+pv003|Nissan Juke 2016|15800.0|kat015|Zamena DA|false|false|1200|86/116|benzin|Nissan|Yuke|4|Radio CD;Klima;Servo volan;alarm;
+pv005|Toyota Avensis Sol 2005|11400.0|kat012|presao 94 678 km|false|false|2000|93/126|gas|Toyota|Avensis Sol|5|klima;ABS;maglenke;
+pv006|Volkswagen Golf 2011|8200.0|kat016|cena nije fiksna|false|true|1600|77/105|dizel|VolksWagen|Golf 6 1.6|5|Alarm;Airbag;Klima;Radio CD;
+pv004|Mercedes Benz ML 2007|5600.0|kat015|290 000km zamena za jeftinije|false|false|3000|165/224|dizel|Mercedes|ML 320|4|Navigacija;Radio CD;Putni racunar;
+pv001|Opel Mariva 2008|4800.0|kat013|zamena DA Presao: 168 456 km|true|false|1200|74/123|gas|Opel|Mariva|4|ABS;alarm;klima;

@@ -1,0 +1,6 @@
+1|rac001|bck001
+1|rac002|pv001
+2|rac002|bck006
+1|rac003|pv002
+1|rac004|moto004
+2|rac004|bck005
